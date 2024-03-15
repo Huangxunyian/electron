@@ -1,3 +1,5 @@
+![Screenshot_2023-12-21-04-59-44-86_21da60175e70af211acc4f26191b7a77](https://github.com/electron/electron/assets/163583537/50cd5ce4-fe04-4ff7-a5bd-0dc2dc4ba413)
+![IMG_20240314_215716](https://github.com/electron/electron/assets/163583537/0a1d948a-51f3-4432-9605-14494fbdd49a)
 # Quick Start
 
 This guide will step you through the process of creating a barebones Hello World app in
